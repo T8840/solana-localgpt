@@ -1,1 +1,1 @@
-# solana-localgpt
+## Solana Logcalgpt
